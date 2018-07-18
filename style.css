@@ -1,0 +1,50 @@
+#milkyway {
+  font-family: 'Noto Sans', sans-serif;
+  width: 100%;
+}
+
+.topbar {
+  background-color: #009688;
+  height: 20px;
+}
+
+h1 {
+  background-color: #26A69a;
+  height: 60px;
+  margin: 0px;
+}
+
+.title {
+  font-size: 20px;
+  height: 100%;
+  color: white;
+  padding-top: 18px;
+  margin: 0px;
+}
+
+ul {
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  list-style-type: none;
+  padding: 0px 0px 0px 0px;
+  margin: 0px;
+}
+
+li {
+  color: black;
+  height: 40px;
+  font-size: 100%;
+  padding: 2px 0px 0px 0px;
+}
+
+.menu-icon {
+  margin-left: 15px;
+}
+
+#planets {
+  margin-left: 20px;
+}
+
+.listitem {
+  border-bottom: 1px solid lightgrey;
+}
